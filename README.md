@@ -58,23 +58,11 @@ I enjoy turning ideas into **functional, clean, and user-friendly web applicatio
 
 ---
 
-## 📂 Projects I’ve Worked On
-
-- **Kaur Boutique** – Full-stack e-commerce platform with authentication and cart system  
-- **LeetCode Metrics** – Dashboard to visualize LeetCode stats using a custom API  
-- **RepoSync** – Collaborative code-sharing platform with built-in editor  
-- **Gurmukh Watch House** – E-commerce website with persistent cart and SQL backend  
-- **College ERP (In Progress)** – Role-based ERP system for students and faculty  
-
-Each project focuses on **real-world functionality**, not demos.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soensingh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soensingh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
@@ -105,6 +93,6 @@ Each project focuses on **real-world functionality**, not demos.
 
 ### 💡 “Learn by building. Improve by shipping.”
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=soensingh&color=brightgreen&style=flat-square)
 
 </div>
