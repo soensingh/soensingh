@@ -58,15 +58,6 @@ I enjoy turning ideas into **functional, clean, and user-friendly web applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soensingh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soensingh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
----
-
 ## 🎯 What I Value as a Developer
 
 - Clean and understandable code  
