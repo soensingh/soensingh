@@ -72,8 +72,7 @@ I enjoy turning ideas into **functional, clean, and user-friendly web applicatio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soen-singh/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soensingh@gmail.com)
 
 </div>
